@@ -1,0 +1,112 @@
+{
+  "jobs": [
+    {
+      "id": 1,
+      "company_logo": "https://i.ibb.co/c6kbQcK/google-1-1-1-1.png",
+      "job_title": "Technical Database Engineer",
+      "company_name": "Google LLC",
+      "remote_or_onsite": "Remote",
+      "location": "San Francisco, CA",
+      "fulltime_or_parttime": "Full-time",
+      "salary": "100k - 150k",
+      "job_description": "As a Technical Database Engineer, your main responsibility will be to design, develop, and manage database systems for the company. This will involve collaborating with cross-functional teams to ensure efficient and effective database performance, integrity, and security. You will be involved in the entire software development life cycle, from designing and coding to testing and debugging software applications related to databases. Additionally, you will analyze end-users requirements and tailor database solutions accordingly. Your role will also include developing and maintaining database schemas, tables, indexes, and views, as well as implementing and managing database security measures. Monitoring and optimizing database performance for high availability and performance will be a key aspect of your responsibilities. In case of any database-related issues or incidents, you will troubleshoot and resolve them in a timely manner. Collaboration with software engineers, data scientists, and other stakeholders will be crucial in this role to ensure seamless integration of database systems with other applications and technologies used by the company.",
+      "job_responsibility": "Design, develop, and manage database systems, collaborate with cross-functional teams, analyze end-users requirements, develop and maintain database schemas, tables, indexes, and views, implement and manage database security measures, monitor and optimize database performance, troubleshoot and resolve database-related issues, collaborate with software engineers, data scientists, and stakeholders for seamless integration of database systems.",
+      "educational_requirements": "A Bachelor's degree or higher in Computer Science, Information Technology, or a related field is typically required for this role.",
+      "experiences": "Minimum of 5 years of experience in database engineering, database administration",
+      "contact_information": {
+        "phone": "123-456-7890",
+        "email": "jobs@abcinc.com"
+      }
+    },
+    {
+      "id": 2,
+      "company_logo": "https://i.ibb.co/9GBsfpb/netflix-4-1.png",
+      "job_title": "Senior Product Designer",
+      "company_name": "Netflix",
+      "remote_or_onsite": "Onsite",
+      "location": "New York, NY",
+      "fulltime_or_parttime": "Full-time",
+      "salary": "100k - 150k",
+      "job_description": "As a Senior Product Designer, you will be responsible for leading the design and development of user-centered product experiences. You will collaborate closely with cross-functional teams, including product managers, engineers, and stakeholders, to create innovative and intuitive user interfaces and experiences. You will conduct user research, gather insights, and use data-driven approaches to inform your design decisions. You will create wireframes, prototypes, and visual designs, and iterate on them based on user feedback and testing. Additionally, you will contribute to the development of design systems and guidelines to ensure consistency and coherence across products and platforms. You will also stay up-to-date with industry trends, best practices, and emerging technologies to continuously improve the product design process and deliver high-quality design solutions.",
+      "job_responsibility": "Lead the design and development of user-centered product experiences, collaborate with cross-functional teams, conduct user research and gather insights, use data-driven approaches to inform design decisions, create wireframes, prototypes, and visual designs, iterate based on user feedback and testing, contribute to the development of design systems and guidelines, stay up-to-date with industry trends and best practices.",
+      "educational_requirements": "A Bachelor's degree or higher in Design, Human-Computer Interaction, or a related field is typically required for this role.",
+      "experiences": "Minimum of 5 years of experience in product design or a related role.",
+      "contact_information": {
+        "phone": "987-654-3210",
+        "email": "jobs@xyzcorp.com"
+      }
+    },
+    {
+      "id": 3,
+      "company_logo": "https://i.ibb.co/347N60w/tesla-9-1.png",
+      "job_title": "Software Engineer",
+      "company_name": "Tesla",
+      "remote_or_onsite": "Onsite",
+      "location": "Los Angeles, CA",
+      "fulltime_or_parttime": "Part-time",
+      "salary": "100k - 150k",
+      "job_description": "As a Software Engineer, you will be responsible for designing, developing, and maintaining software applications and systems. You will collaborate with cross-functional teams, including product managers, software developers, and quality assurance engineers, to develop high-quality software solutions. You will analyze end-users requirements, design software architecture, write code, and conduct thorough testing to ensure software reliability and performance. You will also troubleshoot and debug software issues, optimize code for efficiency, and continuously improve software quality and performance. Additionally, you will stay up-to-date with emerging technologies and industry best practices to ensure the software applications are built using modern and scalable technologies.",
+      "job_responsibility": "Design, develop, and maintain software applications and systems, collaborate with cross-functional teams, analyze end-users requirements, design software architecture, write code, conduct testing, troubleshoot and debug software issues, optimize code for efficiency, stay up-to-date with emerging technologies and industry best practices.",
+      "educational_requirements": "A Bachelor's degree or higher in Computer Science, Software Engineering, or a related field is typically required for this role.",
+      "experiences": "Minimum of 3-5 years of experience in software development.",
+      "contact_information": {
+        "phone": "555-123-4567",
+        "email": "jobs@123marketing.com"
+      }
+    },
+    {
+      "id": 4,
+      "company_logo": "https://i.ibb.co/c6kbQcK/google-1-1-1-1.png",
+      "job_title": "Front-end Developer",
+      "company_name": "Google",
+      "remote_or_onsite": "Remote",
+      "location": "Los Angeles, CA",
+      "fulltime_or_parttime": "Part-time",
+      "salary": "100k - 150k",
+      "job_description": "As a Front-end Developer, you will be responsible for designing and implementing user interfaces for web applications. You will collaborate closely with back-end developers, UI/UX designers, and stakeholders to create visually appealing and responsive web pages that deliver exceptional user experiences. You will translate design mockups and wireframes into functional code using HTML, CSS, and JavaScript, and ensure cross-browser compatibility and performance optimization. You will also integrate web applications with APIs and other web services, and troubleshoot and debug issues to ensure smooth functionality. Additionally, you will stay up-to-date with emerging technologies, best practices, and industry standards to continuously improve the front-end development process and deliver high-quality web experiences.",
+      "job_responsibility": "Design and implement user interfaces for web applications, collaborate with back-end developers and UI/UX designers, translate design mockups and wireframes into functional code using HTML, CSS, and JavaScript, ensure cross-browser compatibility and performance optimization, integrate web applications with APIs and other web services, troubleshoot and debug issues, stay up-to-date with emerging technologies and best practices.",
+      "educational_requirements": "A Bachelor's degree or higher in Computer Science, Software Engineering, or a related field is typically required for this role.",
+      "experiences": "Minimum of 3 years of experience in front-end web development or a related role.",
+      "contact_information": {
+        "phone": "555-123-4567",
+        "email": "jobs@123marketing.com"
+      }
+    },
+    {
+      "id": 5,
+      "company_logo": "https://cdn.freebiesupply.com/images/large/2x/amazon-logo-transparent.png",
+      "job_title": "UX Designer",
+      "company_name": "Amazon",
+      "remote_or_onsite": "Remote",
+      "location": "Los Angeles, CA",
+      "fulltime_or_parttime": "Part-time",
+      "salary": "100k - 150k",
+      "job_description": "As a UX Designer, your main responsibility will be to create user-centered designs for digital products and experiences. You will work closely with cross-functional teams, including product managers, developers, and stakeholders, to understand user needs, gather requirements, and develop design concepts. You will create wireframes, prototypes, and mockups to communicate design ideas and facilitate user testing and feedback. You will iterate on designs based on user feedback and testing results, and ensure that designs are visually appealing, functional, and meet usability standards. Additionally, you will collaborate with developers to ensure successful implementation of designs, and contribute to the development of design patterns, guidelines, and best practices for consistency and coherence across products and platforms.",
+      "job_responsibility": "Create user-centered designs for digital products and experiences, work closely with cross-functional teams, gather requirements and develop design concepts, create wireframes, prototypes, and mockups, iterate based on user feedback and testing results, ensure visually appealing and functional designs, collaborate with developers for successful implementation, contribute to the development of design patterns, guidelines, and best practices.",
+      "educational_requirements": "A Bachelor's degree or higher in Design, Human-Computer Interaction, or a related field is typically required for this role.",
+      "experiences": "Minimum of 3 years of experience in UX/UI design or a related role.",
+      "contact_information": {
+        "phone": "555-123-4567",
+        "email": "jobs@123marketing.com"
+      }
+    },
+    {
+      "id": 6,
+      "company_logo": "https://www.freepnglogos.com/uploads/microsoft-logo-png-transparent-background-1.png",
+      "job_title": "Web Developer",
+      "company_name": "Microsoft",
+      "remote_or_onsite": "Remote",
+      "location": "Los Angeles, CA",
+      "fulltime_or_parttime": "Part-time",
+      "salary": "100k - 150k",
+      "job_description": "As a Web Developer, you will be responsible for designing, coding, testing, and maintaining websites and web applications. You will collaborate with cross-functional teams, including designers, product managers, and other developers, to develop functional and visually appealing websites that meet business requirements and user needs. You will write clean, efficient, and maintainable code using HTML, CSS, JavaScript, and other web technologies. You will also troubleshoot and debug website issues, optimize website performance, and ensure website security. Additionally, you will stay up-to-date with emerging web development trends and technologies to continuously improve the web development process and deliver high-quality web solutions.",
+      "job_responsibility": "Design, code, test, and maintain websites and web applications, collaborate with cross-functional teams, write clean, efficient, and maintainable code, troubleshoot and debug website issues, optimize website performance, ensure website security, stay up-to-date with emerging web development trends and technologies.",
+      "educational_requirements": "A Bachelor's degree or higher in Computer Science, Web Development, or a related field is typically required for this role.",
+      "experiences": "Minimum of 3 years of experience in web development or a related role.",
+      "contact_information": {
+        "phone": "555-123-4567",
+        "email": "jobs@123marketing.com"
+      }
+    }
+  ]
+}
